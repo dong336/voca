@@ -71,5 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### json-server : mock rest api
 
-npm i -g json-server
+npm i -g json-server\
 json-server --watch ./src/db/data.json --port 3001
