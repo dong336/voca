@@ -1,0 +1,100 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    },
+    {
+      "day": 6,
+      "id": 6
+    }
+  ],
+  "words": [
+    {
+      "id": 1,
+      "day": 1,
+      "eng": "book",
+      "kor": "책",
+      "isDone": true
+    },
+    {
+      "id": 5,
+      "day": 3,
+      "eng": "school",
+      "kor": "학교",
+      "isDone": false
+    },
+    {
+      "day": "2",
+      "eng": "Oh",
+      "kor": "오",
+      "isDone": false,
+      "id": 8
+    },
+    {
+      "day": "5",
+      "eng": "test",
+      "kor": "테스트",
+      "isDone": false,
+      "id": 9
+    },
+    {
+      "day": "",
+      "eng": "",
+      "kor": "",
+      "isDone": false,
+      "id": 10
+    },
+    {
+      "day": "",
+      "eng": "",
+      "kor": "",
+      "isDone": false,
+      "id": 11
+    },
+    {
+      "day": "1",
+      "eng": "",
+      "kor": "",
+      "isDone": false,
+      "id": 12
+    },
+    {
+      "day": "1",
+      "eng": "",
+      "kor": "",
+      "isDone": false,
+      "id": 13
+    },
+    {
+      "day": "",
+      "eng": "",
+      "kor": "",
+      "isDone": false,
+      "id": 14
+    },
+    {
+      "day": "1",
+      "eng": "Computer",
+      "kor": "컴퓨터",
+      "isDone": false,
+      "id": 15
+    }
+  ]
+}
